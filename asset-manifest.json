@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sainik-frontend/static/css/main.90eb11f3.css",
+    "main.js": "/sainik-frontend/static/js/main.8a02e13f.js",
+    "index.html": "/sainik-frontend/index.html",
+    "main.90eb11f3.css.map": "/sainik-frontend/static/css/main.90eb11f3.css.map",
+    "main.8a02e13f.js.map": "/sainik-frontend/static/js/main.8a02e13f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90eb11f3.css",
+    "static/js/main.8a02e13f.js"
+  ]
+}
